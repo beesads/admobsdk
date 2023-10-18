@@ -35,17 +35,17 @@ aar file: [link](android/1.0.1/b4Admob.aar)
 Create a mediation group for advertising slots on the Admob mediation platform.Click "Mediation" -> "Mediation Group" to create a mediation group and select the specified ad type.
 
 
-![这是图片](files/file_1.png)
+![这是图片](files/1.png)
 
 #### 3.2 Step2: Add BeeAds to the mediation group
 a) Click to enter the mediation group, scroll down to waterfall flow, and click "Add Custom Event".
 
-![这是图片](files/file_2.png)
+![这是图片](files/2.png)
 
 b) Fill in the relevant information and click Continue.
 - Tag: <font color=red>Beesads</font>
   
-![这是图片](files/file_3.png)
+![这是图片](files/3.png)
 
 #### 3.3 Step3: Map ad units
 a) Class Name：<font color=red>com.beesads.admobsdk.AdmobCustomEventManager</font>
@@ -53,4 +53,4 @@ a) Class Name：<font color=red>com.beesads.admobsdk.AdmobCustomEventManager</fo
 
 b) Parameter：Fill in the advertising ID of google ad manager
 
-![这是图片](files/file_4.png)
+![这是图片](files/4.png)
