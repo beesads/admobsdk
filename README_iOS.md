@@ -11,7 +11,7 @@
 
 ### 2. Import adapter into your app/game
 
-sdk
+sdk file: [link](ios/B4CustomEvent.zip)
 
 * Unzip and add to your XCode project.
 * Swift project need to add this to bridge header.
@@ -31,20 +31,24 @@ sdk
 
 Create a mediation group for advertising slots on the Admob mediation platform.Click "Mediation" -> "Mediation Group" to create a mediation group and select the specified ad type.
 
-todo
+![这是图片](files/1.png)
 
 #### 3.2 Step2: Add BeeAds to the mediation group
 
 a) Click to enter the mediation group, scroll down to waterfall flow, and click "Add Custom Event".
+![这是图片](files/2.png)
 
 b) Fill in the relevant information and click Continue.
 
-- Tag: ==Beesads #EE3F4D==
+- Tag: <font color=red>Beesads</font>
+
+![这是图片](files/3.png)
 
 #### 3.3 Step3: Map ad units
 
-a) Class Name：==com.beesads.admobsdk.AdmobCustomEventManager #EE3F4D==
+a) Class Name：<font color=red>B4AdCustomEvent</font>
 
 > The content with a red background must be filled in
 
 b) Parameter：Fill in the advertising ID of google ad manager
+![这是图片](files/ios.jpeg)
