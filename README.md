@@ -48,9 +48,11 @@ b) Fill in the relevant information and click Continue.
 ![这是图片](files/3.png)
 
 #### 3.3 Step3: Map ad units
-a) Class Name：<font color=red>com.beesads.admobsdk.AdmobCustomEventManager</font>
+a) Class Name：~~<font color=red>com.beesads.admobsdk.AdmobCustomEventManager</font>~~
+<font color=red>com.beesads.mediation.adapters.admob.AdmobAdapter</font>
+
 >The content with a red background must be filled in
 
 b) Parameter：Fill in the advertising ID of google ad manager
 
-![这是图片](files/4.png)
+![这是图片](files/5.png)
