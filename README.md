@@ -22,7 +22,7 @@ dependencies {
     // required google ads
     implementation 'com.google.android.gms:play-services-ads:22.4.0'
     // ⬇ Beesads implementation
-    implementation "io.github.beesads:b4Admob:1.0.1"
+    implementation "io.github.beesads:b4Admob:1.0.2"
 }
 ```
 
